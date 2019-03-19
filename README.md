@@ -1,5 +1,5 @@
 # scala-docker
-Dockerfile repository for using latest Java / Scala
+[Dockerfile repository](https://cloud.docker.com/u/torao/repository/docker/torao/scala) for using latest Java / Scala (and SBT).
 
 ## How to Use
 
